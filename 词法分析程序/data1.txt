@@ -1,0 +1,11 @@
+int main()
+{
+    int a = 5;
+    for(int1231 i=0; i<5; i++)  //ggggg
+    {
+        a++;
+        printf("%d",a);
+    }
+    return 0;
+}\'
+$
